@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="220">
-  <rect width="400" height="220" fill="#cfe2ff"/>
-  <rect x="20" y="140" width="360" height="60" fill="#4a6fa5"/>
-  <polygon points="30,140 200,60 370,140" fill="#3a5a8a"/>
-  <rect x="180" y="160" width="40" height="40" fill="#ffffff"/>
-  <text x="200" y="30" font-family="Arial" font-size="18" fill="#2c3e50" text-anchor="middle">Rentree universitaire</text>
-</svg>
