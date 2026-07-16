@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="220">
+  <rect width="400" height="220" fill="#ffe8cc"/>
+  <circle cx="200" cy="120" r="45" fill="#ffffff" stroke="#e07a1f" stroke-width="4"/>
+  <path d="M160,120 h80 M200,80 v80" stroke="#e07a1f" stroke-width="3"/>
+  <text x="200" y="30" font-family="Arial" font-size="18" fill="#2c3e50" text-anchor="middle">Tournoi sportif</text>
+</svg>
